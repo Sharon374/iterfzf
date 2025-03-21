@@ -3,3 +3,4 @@ name = "iterfzf"
 version = "0.1.0"
 description = "Pythonic interface to fzf, a CLI fuzzy finder"
 requires-python = ">=3.10"
+# drop an unused branch
